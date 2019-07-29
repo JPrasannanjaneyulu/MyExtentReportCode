@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FREE CRM Application Test Automation Test Suite" duration-ms="64893" started-at="2019-07-25T07:45:45Z" finished-at="2019-07-25T07:46:50Z">
+    <groups>
+    </groups>
+    <test name="Free CRM App Test Cases" duration-ms="64893" started-at="2019-07-25T07:45:45Z" finished-at="2019-07-25T07:46:50Z">
+      <class name="com.qa.test.ExtentReportTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.ExtentReportTest@68c4039c]" name="setUp" is-config="true" duration-ms="39067" started-at="2019-07-25T13:15:45Z" finished-at="2019-07-25T13:16:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="googleTitleTest()[pri:1, instance:com.qa.test.ExtentReportTest@68c4039c]" name="googleTitleTest" duration-ms="796" started-at="2019-07-25T13:16:25Z" finished-at="2019-07-25T13:16:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.ExtentReportTest@68c4039c]" name="tearDown" is-config="true" duration-ms="408" started-at="2019-07-25T13:16:25Z" finished-at="2019-07-25T13:16:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.ExtentReportTest@68c4039c]" name="setUp" is-config="true" duration-ms="21193" started-at="2019-07-25T13:16:26Z" finished-at="2019-07-25T13:16:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="googleLogoTest()[pri:2, instance:com.qa.test.ExtentReportTest@68c4039c]" name="googleLogoTest" duration-ms="374" started-at="2019-07-25T13:16:47Z" finished-at="2019-07-25T13:16:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.ExtentReportTest@68c4039c]" name="tearDown" is-config="true" duration-ms="3009" started-at="2019-07-25T13:16:47Z" finished-at="2019-07-25T13:16:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.test.ExtentReportTest -->
+    </test> <!-- Free CRM App Test Cases -->
+  </suite> <!-- FREE CRM Application Test Automation Test Suite -->
+</testng-results>
